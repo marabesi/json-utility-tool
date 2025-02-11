@@ -62,7 +62,7 @@
     "cypress-image-diff-js": "^1.30.0",
     "electron": "^32.1.2",
     "electron-builder": "^24.13.3",
-    "esbuild": "^0.17.0",
+    "esbuild": "^0.25.0",
     "esbuild-jest": "^0.5.0",
     "eslint-plugin-cypress": "^2.12.1",
     "http-server": "^14.0.0",
